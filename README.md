@@ -1,4 +1,5 @@
 # IYTerminal 🖥
+# Notice: The newest commits will be pushed to [Codeberg](https://codeberg.org/iceyear/homepage) and this repo is cloned  from it! 
 
 Ice Year's Homepage Source Code. Added Simplifyed Chinese language support and some interesting features.
 
